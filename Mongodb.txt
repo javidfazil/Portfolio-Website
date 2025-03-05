@@ -1,0 +1,1 @@
+mongodb+srv://Javidfazil:<db_password>@javid.oicis.mongodb.net/?retryWrites=true&w=majority&appName=Javid
